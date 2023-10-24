@@ -2,16 +2,16 @@
 	"schemaVersion": 1,
 	"id": "projecte",
 	"version": "${version}",
-	"name": "ProjectE",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "ProjectE (Unofficial)",
+	"description": "Unofficial port/rewrite of ProjectE for fabric.",
 	"authors": [
-		"Me!"
+		"cndofx"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/projecte/icon.png",
 	"environment": "*",
 	"entrypoints": {
