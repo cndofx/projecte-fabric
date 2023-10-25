@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "result": {
+        "item": "projecte:aeternalis_fuel"
+    },
+    "ingredients": [
+        {
+            "item": "projecte:philosophers_stone"
+        },
+        {
+            "item": "projecte:mobius_fuel"
+        },
+        {
+            "item": "projecte:mobius_fuel"
+        },
+        {
+            "item": "projecte:mobius_fuel"
+        },
+        {
+            "item": "projecte:mobius_fuel"
+        }
+    ]
+}

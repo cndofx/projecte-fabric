@@ -1,4 +1,7 @@
 {
     "projectegroup": "ProjectE",
-    "item.projecte.philosophers_stone": "Philosopher's Stone"
+    "item.projecte.philosophers_stone": "Philosopher's Stone",
+    "item.projecte.alchemical_coal": "Alchemical Coal",
+    "item.projecte.mobius_fuel": "Mobius Fuel",
+    "item.projecte.aeternalis_fuel": "Aeternalis Fuel"
 }

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "result": {
+        "item": "projecte:alchemical_coal"
+    },
+    "ingredients": [
+        {
+            "item": "projecte:philosophers_stone"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:coal"
+        }
+    ]
+}
