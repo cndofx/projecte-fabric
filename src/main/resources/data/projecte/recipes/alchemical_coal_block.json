@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "result": {
+        "item": "projecte:alchemical_coal_block"
+    },
+    "ingredients": [
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        },
+        {
+            "item": "projecte:alchemical_coal"
+        }
+    ]
+}
