@@ -1,0 +1,4 @@
+accessWidener v2 named
+
+# allow overriding getRecipeRemainder() for philosopher's stone
+extendable class net/minecraft/item/Item
