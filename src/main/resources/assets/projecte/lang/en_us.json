@@ -3,5 +3,8 @@
     "item.projecte.philosophers_stone": "Philosopher's Stone",
     "item.projecte.alchemical_coal": "Alchemical Coal",
     "item.projecte.mobius_fuel": "Mobius Fuel",
-    "item.projecte.aeternalis_fuel": "Aeternalis Fuel"
+    "item.projecte.aeternalis_fuel": "Aeternalis Fuel",
+    "block.projecte.alchemical_coal_block": "Alchemical Coal Block",
+    "block.projecte.mobius_fuel_block": "Mobius Fuel Block",
+    "block.projecte.aeternalis_fuel_block": "Aeternalis Fuel Block"
 }

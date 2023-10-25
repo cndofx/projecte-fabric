@@ -1,6 +1,7 @@
 package com.cndofx.projecte.item;
 
 import com.cndofx.projecte.ProjectE;
+import com.cndofx.projecte.block.ModBlocks;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
@@ -29,6 +30,13 @@ public class ModItems {
                     .icon(() -> new ItemStack(ModItems.PHILOSOPHERS_STONE))
                     .entries((displayContext, entries) -> {
                         entries.add(PHILOSOPHERS_STONE);
+                        entries.add(ALCHEMICAL_COAL);
+                        entries.add(MOBIUS_FUEL);
+                        entries.add(AETERNALIS_FUEL);
+
+                        entries.add(ModBlocks.ALCHEMICAL_COAL_BLOCK);
+                        entries.add(ModBlocks.MOBIUS_FUEL_BLOCK);
+                        entries.add(ModBlocks.AETERNALIS_FUEL_BLOCK);
                     }).build());
 
     public static void registerItems() {

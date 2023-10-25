@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.cndofx.projecte.block.ModBlocks;
 import com.cndofx.projecte.item.ModItems;
 
 public class ProjectE implements ModInitializer {
@@ -15,5 +16,6 @@ public class ProjectE implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerItems();
+		ModBlocks.registerBlocks();
 	}
 }
