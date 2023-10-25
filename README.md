@@ -1,2 +1,2 @@
 # projecte-fabric
-unofficial fabric port of projecte (mostly for learning purposes)
+unofficial fabric port/rewrite of projecte (mostly for learning purposes)
